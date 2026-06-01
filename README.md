@@ -1,12 +1,4 @@
-<div align="center">
 
-# Vaibhav Pandey
-
-
-
-![](https://komarev.com/ghpvc/?username=vaibhav051422-collab&color=blue)
-
-</div>
 <h1 align="center">Hi 👋, I'm Vaibhav Pandey</h1>
 <h3 align="center">A passionate full stack developer who is currently exploring AI along with basic cloud knowledge</h3>
 
