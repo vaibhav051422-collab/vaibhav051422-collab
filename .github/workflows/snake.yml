@@ -13,8 +13,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/pacman.svg?type=pacman
-            dist/pacman-dark.svg?type=pacman&palette=github-dark
+            dist/pacman.svg?color_snake=#FFD700&color_dots=#00000,#9be9a8,#40c463,#30a14e,#216e39
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: crazy-max/ghaction-github-pages@v3
