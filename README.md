@@ -1,170 +1,187 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Pandey</h1>
-<h3 align="center">A passionate full stack developer who is currently exploring AI along with basic cloud knowledge</h3>
+<div align="center">
+  
+# 👋 Hi, I'm Vaibhav Pandey
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav051422-collab&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav051422-collab" /> </p>
+### 🚀 Full Stack Developer | AI Enthusiast | Cloud Learner
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav051422-collab" alt="vaibhav051422-collab" /></a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=vaibhav051422-collab&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/vaibhav051422-collab?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/vaibhav051422-collab?label=Stars&style=social)
 
-- 🔭 I'm currently working on [Git-Repo](https://github.com/vaibhav051422-collab/git-repo.git)
-
-- 🌱 I'm currently learning **RAG, Next.js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/vaibhav051422-collab](https://github.com/vaibhav051422-collab)
-
-- 💬 Ask me about **Latest AI developments and DSA and like anything related to tech :)**
-
-- 📫 How to reach me **vaibhavpandey0509@gmail.com**
-
-- ⚡ Fun fact **I think I am boring, connect with me if you want to prove me wrong :)**
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/vaibhavpandey05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhavpandey05" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vaibhav051422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vaibhav051422" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaibhav050910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhav050910" height="30" width="40" /></a>
-</p>
+## 🎯 About Me
+
+<div align="center">
+
+```
+💻 Passionate about building scalable applications
+🤖 Exploring AI & Machine Learning technologies  
+☁️ Learning Cloud Architecture & DevOps
+🎓 Solving DSA problems on competitive platforms
+🌟 Open to collaborations & learning opportunities
+```
+
+</div>
+
+### 📌 Current Focus
+- 🔭 Working on: **[Git-Repo](https://github.com/vaibhav051422-collab/git-repo.git)** 
+- 🌱 Learning: **RAG (Retrieval-Augmented Generation), Next.js, Advanced System Design**
+- 💬 Ask me about: **Latest AI developments, DSA, Tech trends, or anything you're curious about!**
+- ⚡ Fun fact: **I think I'm boring—connect with me to prove me wrong! 😄**
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-</p>
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vaibhavpandey05)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/vaibhav050910)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/vaibhav051422)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavpandey0509@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav051422-collab)
+
+</div>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+## 🛠️ Tech Stack & Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav051422-collab&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaibhav051422-collab" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav051422-collab&show_icons=true&locale=en&theme=radical" alt="vaibhav051422-collab" /></p>
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav051422-collab&theme=radical" alt="vaibhav051422-collab" /></p>
+### 🔙 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### 🚀 DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<h3 align="left">🐍 My Contributions — Snake eating the graph!</h3>
+### 🎨 Design & Other
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<!--
-  SETUP REQUIRED for Snake animation:
-  1. Go to your GitHub profile repository (vaibhav051422-collab/vaibhav051422-collab)
-  2. Create the folder: .github/workflows/
-  3. Create file: .github/workflows/snake.yml with the content below
-  4. Go to repo Settings → Actions → General → enable "Read and write permissions"
-  5. Run the workflow once manually from the Actions tab
-
-  ── snake.yml content (ENHANCED VERSION) ──────────────────────────────
-  name: Generate Snake
-
-  on:
-    schedule:
-      - cron: "0 0 * * *"   # runs daily at midnight UTC
-    workflow_dispatch:
-
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-              dist/github-snake-green.svg?palette=github&snake_color=50c878
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ─────────────────────────────────────────────────────────────────────
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/vaibhav051422-collab/vaibhav051422-collab/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/vaibhav051422-collab/vaibhav051422-collab/output/github-snake.svg" />
-  <img alt="github-snake"
-       src="https://raw.githubusercontent.com/vaibhav051422-collab/vaibhav051422-collab/output/github-snake.svg" />
-</picture>
+</div>
 
 ---
 
-<h3 align="left">👾 Pac-Man eating my contributions!</h3>
+## 📊 GitHub Analytics
 
-<!--
-  SETUP REQUIRED for Pac-Man animation:
-  Option 1: Add to the same snake.yml workflow file:
-  In the outputs section, add:
-      dist/pacman.svg?type=pacman
-      dist/pacman-dark.svg?type=pacman&palette=github-dark
+<div align="center">
 
-  Option 2: Use the advanced Pac-Man action:
-  Create a separate workflow file called pacman.yml
+### 📈 Overall Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhav051422-collab&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
 
-  ── pacman.yml content (ENHANCED VERSION) ─────────────────────────────
-  name: Generate Pac-Man
+### 🌟 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav051422-collab&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-  on:
-    schedule:
-      - cron: "0 1 * * *"   # runs daily at 1 AM UTC
-    workflow_dispatch:
+### 🔥 Contribution Streak
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vaibhav051422-collab&theme=radical&hide_border=true&background=0d1117)
 
-  jobs:
-    pacman:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/pacman.svg?type=pacman
-              dist/pacman-dark.svg?type=pacman&palette=github-dark
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ─────────────────────────────────────────────────────────────────────
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/vaibhav051422-collab/vaibhav051422-collab/output/pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/vaibhav051422-collab/vaibhav051422-collab/output/pacman.svg" />
-  <img alt="pacman"
-       src="https://raw.githubusercontent.com/vaibhav051422-collab/vaibhav051422-collab/output/pacman.svg" />
-</picture>
+</div>
 
 ---
 
-<p align="center">
-  <i>Thanks for visiting! Feel free to ⭐ any repo you find interesting.</i>
-</p>
+## 🐍 Contribution Graph Animations
+
+### 🎮 Pac-Man Eating My Contributions
+<div align="center">
+
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/vaibhav051422-collab/vaibhav051422-collab/output/pacman.svg#gh-dark-mode-only)
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/vaibhav051422-collab/vaibhav051422-collab/output/pacman.svg#gh-light-mode-only)
+
+</div>
+
+### 🐍 Snake Eating My Contributions
+<div align="center">
+
+![Snake Contribution Graph](https://raw.githubusercontent.com/vaibhav051422-collab/vaibhav051422-collab/output/github-snake-dark.svg#gh-dark-mode-only)
+![Snake Contribution Graph](https://raw.githubusercontent.com/vaibhav051422-collab/vaibhav051422-collab/output/github-snake.svg#gh-light-mode-only)
+
+</div>
+
+---
+
+## 🎖️ GitHub Achievements & Trophies
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vaibhav051422-collab&theme=radical&no-frame=true&no-bg=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🚀 Latest Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **[Git-Repo](https://github.com/vaibhav051422-collab/git-repo)** | Repository management tool | Node.js, Express, MongoDB |
+| 📂 | Explore more on my [GitHub Profile](https://github.com/vaibhav051422-collab) | |
+
+</div>
+
+---
+
+## 💡 My Coding Philosophy
+
+> "Code is poetry written for machines to execute and humans to understand."
+
+<div align="center">
+
+- ✨ Writing **clean, maintainable code**
+- 🎯 Building **user-centric applications**
+- 📚 **Continuous learning** and exploration
+- 🤝 **Collaboration** and knowledge sharing
+- 🚀 Shipping **production-ready solutions**
+
+</div>
+
+---
+
+## 📞 Let's Connect!
+
+<div align="center">
+
+### 💌 Reach Out:
+**Email:** vaibhavpandey0509@gmail.com
+
+### 🎯 Want to collaborate?
+I'm always interested in:
+- 🤝 Open source contributions
+- 💼 Freelance projects
+- 🎓 Knowledge sharing
+- 🚀 Startup ideas
+
+Feel free to ⭐ any repository you find interesting or reach out for a chat!
+
+</div>
+
+---
+
+<div align="center">
+
+### 🙏 Thank You For Visiting!
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=vaibhav051422-collab.vaibhav051422-collab)
+
+**Made with ❤️ by [Vaibhav Pandey](https://github.com/vaibhav051422-collab)**
+
+</div>
