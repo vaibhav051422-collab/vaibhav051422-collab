@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Vaibhav Pandey
 
-### 🚀 Full Stack Developer | AI Enthusiast | Cloud Learner
+### 🚀 Full Stack Developer | AI Enthusiast 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vaibhav051422-collab&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/vaibhav051422-collab?label=Followers&style=social)
